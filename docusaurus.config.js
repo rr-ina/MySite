@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'My Test Site',
   tagline: 'Cats are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/cat.ico',
 
   // Set the production url of your site here
   url: 'https://rr-ina.github.io',
@@ -129,7 +129,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Daria's Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
